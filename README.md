@@ -1,7 +1,7 @@
-# Tokhy's Hub
+# Khaloodz's Hub
 
 ## Introduction
-Welcome to my personal website and blog, powered by Bashscript and hosted on GitHub Pages. The website features a clean and minimalist design, fast loading times, and easy maintenance using shell scripts to manipulate HTML and CSS. Check out the [blog announcement post](https://tokiesan.github.io/blogposts/AnnouncingTheBlog.html) for more information about the project.
+Welcome to my personal website and blog, inspired by Tokhy’s minimalist approach and built using Bash scripts and GitHub Pages. My goal is to create a fast, simple, and self-maintained space for my thoughts and projects. Special thanks to [Tokhy](https://tokiesan.github.io/) for the original concept. You can check out the original [blog announcement post](https://tokiesan.github.io/blogposts/AnnouncingTheBlog.html) post for more details on the inspiration behind this project.
 
 ## Features
 - Minimalist and clean design
